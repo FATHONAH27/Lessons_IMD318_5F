@@ -1,0 +1,40 @@
+body
+{
+	background-color: greenyellow;
+
+}
+h1
+{
+	text-align: center;
+}
+h3
+{
+	background-color: blanchedalmond; 
+	font-family: verdana;
+	color: darkblue; 
+	border: 5px dotted skyblue;
+}
+p
+{
+	font-size: 20px;
+	color: magenta;
+}
+
+table, td, th, tr
+{
+	border: 3px solid darkgreen;
+	border-collapse: collapse;
+
+}
+th
+{
+	background-color: dimgrey; 
+}
+td
+{
+	text-align: center;
+}
+tr:hover
+{
+	background-color: burlywood;
+}
